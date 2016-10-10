@@ -24,7 +24,7 @@
 
 ### 1.自行安装
 
-####<1 文件准备：下载文件SystemC-2.3.1,dol_etz.zip,而后将dol_etz.zip解压到新建文件夹dol,同样解压systemc-2.3.1.解压之后home盘如下图所示：
+#### <1 文件准备：下载文件SystemC-2.3.1,dol_etz.zip,而后将dol_etz.zip解压到新建文件夹dol,同样解压systemc-2.3.1.解压之后home盘如下图所示：
 
 #### <2. 编译systemc-2.3.1
 
