@@ -30,11 +30,11 @@
 
 #### 进入systemc-2.3.1文件夹，新建并进入一个临时文件夹，运行configure----根据系统环境设置参数。
 
- ![1](http://https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/1.png)
+ ![1](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/1.png)
 
 #### 查看文件目录
 
- ![2](http://https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/2.png)
+ ![2](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/2.png)
 
 
 
@@ -46,21 +46,21 @@
 
 #### 由于测试样例一直失败，虽然知道安装的systemc有些问题，但是尝试了重装数遍，为其添加引用库等方法无效之后，便放弃了，测试之后的错误情况如下图：
 
- ![3](http://https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/3.png)
+ ![3](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/3.png)
 
-#### <4虽然知道是systemc-2.3.1的安装内容之中有一些需要需改的代码，但是百度出来的方法试过几次都不成功，也尝试着从头开始配置DOL环境多次，但都没有什么效果，就采用了师兄给的配置好的虚拟机。
+#### 虽然知道是systemc-2.3.1的安装内容之中有一些需要需改的代码，但是百度出来的方法试过几次都不成功，也尝试着从头开始配置DOL环境多次，但都没有什么效果，就采用了师兄给的配置好的虚拟机。
 
 ### 2.导入给定虚拟机
 
 #### 由于是师兄已经配置好DOL环境的虚拟机，所以在导入到VMWARE之后，不用再下载文件，修改build_zip.xml文件里面的相关内容即可：
 
- ![4](http://https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/4.png)
+ ![4](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/4.png)
 
 
 
 #### 成功之后截图如下：
 
- ![5](http://https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/5.png)
+ ![5](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/5.png)
 
 
 
