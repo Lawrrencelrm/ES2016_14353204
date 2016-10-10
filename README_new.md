@@ -24,13 +24,13 @@
 
 ### 1.自行安装
 
-  #### <1 文件准备：下载文件SystemC-2.3.1,dol_etz.zip,而后将dol_etz.zip解压到新建文件夹dol,同样解压systemc-2.3.1.解压之后home盘如下图所示：
+  #### <1 文件准备：下载文件SystemC-2.3.1,dol_etz.zip,而后将dol_etz.zip解压到新建文件夹dol,同样解压systemc-2.3.1.
 
 #### <2. 编译systemc-2.3.1
 
 #### 进入systemc-2.3.1文件夹，新建并进入一个临时文件夹，运行configure----根据系统环境设置参数。
 
- ![1](1.png)
+ ![1](https://shcm09.baidupcs.com/file/f0a6c378122d81b21763a0706f5d76d8?bkt=p3-1400f0a6c378122d81b21763a0706f5d76d86ef9990100000000f421&fid=1431738424-250528-375394262570851&time=1476079129&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-GIFZENSOn7qxSaOUjIvnUiAT9lk%3D&to=sh09vb&fm=Yan,B,M,mn&sta_dx=62497&sta_cs=2&sta_ft=png&sta_ct=0&sta_mt=0&fm2=Yangquan,B,M,mn&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=1400f0a6c378122d81b21763a0706f5d76d86ef9990100000000f421&sl=71761998&expires=8h&rt=pr&r=627433518&mlogid=6577079320883012308&vuk=1431738424&vbdid=2769477100&fin=1.png&fn=1.png&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=6577079320883012308&dp-callid=0.1.1&hps=1&csl=152&csign=K21TZVygz9BzdV%2FjMvJsn0oubGc%3D)
 
 #### 查看文件目录
 
