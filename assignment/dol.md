@@ -3,6 +3,7 @@
 ## ·修改example2,让3个square模块变成两个
 
 ### （1）example2 DOL图如下图所示：
+     
 
 ### （2）从该dot图之中，可以看到从square到channel的连线有3组，从generator到square,square到consumer则是分别有一组，example2.xml文件之中，表示迭代次数的是N,也就是square函数被应用的次数。
 
