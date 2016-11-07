@@ -7,14 +7,17 @@
 ### 编译运行
 
 #### 1.代码写好之后，先执行javac Deadlock.java,之后就会看到文件夹之中多出三个.class文件，然后把deadlock文件添加可执行权限，在命令行之中输入sudo chmod +x deadlock。然后执行./deadlock执行该文件。
+![1](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/dol_1.png)
 
 
 
 #### 2.刚开始，我是一直再修改Deadlock.java之中的count值，改到如下图所示的大小，但还是没有产生死锁，后来就直接修改deadlock循环条件之中c的上限值为10000。这两种方法更改的原理一样，都是为了让两个线程刚好达到死锁的条件。
-
+![2](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/dol_1.png)
+![3](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/dol_1.png)
 
 
 #### 3.产生死锁的截图如下：
+![4](https://github.com/Lawrrencelrm/ES2016_14353204/raw/master/Screenshots/dol_1.png)
 
 
 
